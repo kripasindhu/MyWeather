@@ -1,5 +1,3 @@
-import React from "react";
-import renderer from "react-test-renderer";
 import {fomatNextDays} from "../utils/Const";
 import moment from "moment";
   test('the data is Tod', () => {

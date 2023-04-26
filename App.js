@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View,SafeAreaView} from 'react-native';
+import { StyleSheet, Text, View} from 'react-native';
 import { WeatherAPIKey,SomethingWentWrong,FetchingWeather,LOCATION_PERMISSION_DENIED,GRANTEDTEXT,WeatherAPiUrl } from './utils/Const';
 import Weather from './screen/WeatherScreen';
 import * as Location from 'expo-location';
