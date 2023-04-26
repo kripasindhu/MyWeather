@@ -20,4 +20,4 @@ This plugin uses the OpenWeather API to show weather information, so you need to
 
 -------------------------------Screenshot---------------------------------------------------
 
-![Screenshot_2023-04-26-13-45-23-88_f73b71075b1de7323614b647fe394240](https://user-images.githubusercontent.com/16027703/234566984-d208ed36-abc9-47d7-af72-5b10b4112432.jpg)
+![Screenshot_2023-04-26-13-45-23-88_f73b71075b1de7323614b647fe394240 (1)](https://user-images.githubusercontent.com/16027703/234568387-28e34b3c-4866-40f6-b06e-cdd422319512.jpg)
