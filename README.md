@@ -18,5 +18,6 @@ To request access to location, you need to add the following line to your app's 
 
 This plugin uses the OpenWeather API to show weather information, so you need to create an account on https://openweathermap.org and get your key. Free accounts are allowed to perform 1,000,000 calls/month and 60 calls/minute.
 
+-------------------------------Screenshot---------------------------------------------------
 
-
+![Screenshot_2023-04-26-13-45-23-88_f73b71075b1de7323614b647fe394240](https://user-images.githubusercontent.com/16027703/234566984-d208ed36-abc9-47d7-af72-5b10b4112432.jpg)
